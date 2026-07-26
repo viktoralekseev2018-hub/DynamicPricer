@@ -79,5 +79,5 @@ $$\max_{P} \Big[ (P - \text{Cost}) \cdot \exp\left( \alpha + \beta \ln(P) \right
 
 1. **Клонируйте репозиторий:**
    ```bash
-   git clone [https://github.com/your-username/DynamicPricer.git](https://github.com/your-username/DynamicPricer.git)
+   git clone [https://github.com/viktoralekseev2018-hub/DynamicPricer](https://github.com/viktoralekseev2018-hub/DynamicPricer)
    cd DynamicPricer
